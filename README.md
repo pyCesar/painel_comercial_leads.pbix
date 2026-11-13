@@ -1,4 +1,4 @@
-# painel_comercial_leads.pbix
+# Painel Comercial de Leads
 
 Projeto prático de qualidade de dados e análise comercial, feito do zero com dados fictícios.
 
