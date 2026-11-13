@@ -1,4 +1,5 @@
 # Automação de alerta de leads incompletos (Make)
+![Cenário no Make](make.png)
 
 Cenário simples no Make que avisa por e-mail quando um lead novo entra na planilha com dados faltando.
 
