@@ -6,7 +6,7 @@ Cenário simples no Make que avisa por e-mail quando um lead novo entra na plani
 ## Como funciona
 
 1. **Gatilho:** O Google Forms está ligado a uma planilha do Google Sheets. O Forms só grava as respostas nela. Os campos do formulário são opcionais de propósito, para o alerta poder pegar o que fica em branco.
-2. **Filtro:** Se algo do formulário estiver sem nome, sem origem ou sem vendedor, o fluxo continua. Se estiver completo, ele para ali.
+2. **Filtro:** Se a resposta chegar com nome, origem ou vendedor em branco, o fluxo continua. Se estiver completa, ele para ali.
 3. **Ação:** o Make envia um e-mail pelo Gmail com o assunto "Lead com dados faltando", mostrando o nome, a origem e o vendedor que chegaram.
 
 ## Por que fiz isso
