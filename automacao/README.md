@@ -28,8 +28,3 @@ No projeto do painel, a limpeza de dados foi feita na mão, depois que os erros 
 
 - `make.png`: print do cenário no Make
 - `Integration Google Sheets, Gmail.blueprint.json`: arquivo exportado do cenário, que pode ser importado no Make
-
-## Próximos passos
-
-- Trocar a planilha por um webhook, para o lead chegar direto de um formulário
-- Usar uma IA para resumir os indicadores do painel para o time comercial
