@@ -36,3 +36,7 @@ Projeto prático de qualidade de dados e análise comercial, feito do zero com d
 ## Ferramentas
 
 Google Sheets, Power BI Desktop
+
+## Automação (Make)
+
+Cenário que envia um e-mail quando um lead entra com dados faltando. Detalhes na pasta [automacao](automacao/).
